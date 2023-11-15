@@ -4,3 +4,8 @@
 Weather 🌩 condition,🌫Humidity and Wind💨 Speed according to the city🏙️ on our website or app.
 #It will display the weather info on website from Free API using JavaScript.
 #In this weather app we will add one search🔎 box where user can enter the city🏙️name and get the weather information of the particular city.
+
+# Output
+![Screenshot 2023-11-15 102721](https://github.com/Rahul02M/weather-app-website-/assets/133855195/c3ec2b61-e1ed-4662-8dce-45899b3b8d04)
+
+
